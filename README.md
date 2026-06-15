@@ -9,3 +9,4 @@ Steps : Defined Project Scope and Objectives, Gathered and Analyzed Requirements
 Insights : Enhanced Sales Insights, Improved Sales Strategies, Optimized Inventory Management.
 
 Skills : Excel, Data Analysis, Data Visualization, Trend Analysis, Sales Strategy Development, Problem-Solving.
+also try [https://logicalc.org/](https://logicalc.org/)
